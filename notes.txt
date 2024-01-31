@@ -1,0 +1,1 @@
+I previously have very little experience using git. I have only ever used it to download a mod manager for Baldurs gate, but I never used it for my own software development.
